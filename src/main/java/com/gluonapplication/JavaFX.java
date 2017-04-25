@@ -25,7 +25,7 @@ public class JavaFX extends Application {
         Rectangle2D visualBounds = Screen.getPrimary().getVisualBounds();
         double width = visualBounds.getWidth();
         double height = visualBounds.getHeight();
-
+//comment
         Label label1 = new Label("Click the button");
         Label label2 = new Label();
         Button button1 = new Button("Button");
